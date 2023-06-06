@@ -45,12 +45,12 @@ Otherwise if the incorrect password is entered, following the refresh prompt all
 Tests
 -
 
-To run tests on the filesystems.js file please enter
+To run tests on the `filesystem.js` file please enter
 
 ```
 npm run test
 ```
 
-Note that the filesystem functionality has not been implemented as of yet. Maybe in future versions
+Note that the filesystem functionality has not been implemented as of yet.
 
 Thank you for reading \o/
